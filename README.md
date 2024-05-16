@@ -1,44 +1,12 @@
-💫 About Me:
+# 💫 About Me:
 
-👋 Hi there! I'm a passionate Data Scientist currently based in Malaysia, working at a Tech Drone Company. Here's a little more about me:
-
-### Interests
-
-👀 I’m interested in:
-- Artificial Intelligence
-- Computer Vision
-- Big Data
-
-### Current Learning
-
-🌱 I’m currently learning:
-- Advanced machine learning techniques
-- Deep learning applications in computer vision
-- Scalable data processing with big data technologies
-
-### Collaboration
-
-💞️ I’m looking to collaborate on:
-- AI-driven projects
-- Computer vision applications
-- Big data analysis and insights
-
+👋 Hi there! I'm a Muhammad Syazmi a dedicated Data Engineer based in Malaysia, with a strong background in data science and computational intelligence. Specializing in image processing, pattern recognition, object detection, and object tracking. Currently, working as an Data Scientist at Drone Tech Company, where developed and implemented cutting-edge AI detection solutions and data pipelines. My GitHub page is where I showcase my projects related to AI, computer vision, and a bit of big data. Feel free to explore my repositories and reach out if you have any questions or ideas for collaboration.
 ### Contact
 
 📫 How to reach me:
 - [Email](syazmisuhaidi@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/muhammad-syazmi-suhaidi-8a3076100/)
 - [GitHub](https://github.com/syazmisuhaidi)
-
-### More About Me
-
-- **Skills:** Python, SQL, R
-- **Passions:** Football, F1, various sports
-
-### My GitHub
-
-My GitHub page is where I showcase my projects related to AI, computer vision, and a bit of big data. Feel free to explore my repositories and reach out if you have any questions or ideas for collaboration.
-
 
 ---
 
