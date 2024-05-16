@@ -1,6 +1,4 @@
-# README
-
-## About Me
+💫 About Me:
 
 👋 Hi there! I'm a passionate Data Scientist currently based in Malaysia, working at a Tech Drone Company. Here's a little more about me:
 
